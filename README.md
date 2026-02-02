@@ -1,61 +1,100 @@
 # Awesome Date & Time Tools ⏱️📅
 
-A curated list of useful date and time calculation tools, libraries, and resources.
+A curated and open reference of useful date and time tools, calculators, and resources.
 
-This repository focuses on tools that help calculate date differences, working days, deadlines, and time intervals.
+This repository focuses on tools that help calculate date differences, working days (business days), deadlines, and time intervals.
+It is intended as a documentation and reference resource rather than a code repository.
+
+---
+
+## What This Repository Is
+
+This repository is a curated list and documentation resource for date and time calculation tools.
+
+It exists to:
+- provide clear definitions and terminology
+- document common use cases
+- reference reliable tools for date and time calculations
+- serve as a public, citable source for date and time utilities
+
+This repository does **not** host application source code.
 
 ---
 
 ## Web-Based Date & Time Tools
 
-### DateTools.tech
+### DateTools.live
 **Free online date and time calculator**
 
-Website: https://datetools.tech
+Website: https://datetools.live
 
-Features:
-- Date difference calculator
-- Working days calculator
-- Deadline calculator
-- Countdown tool
-- No registration required
-- Works directly in the browser
+DateTools.live is a web-based utility that helps users calculate:
+- date differences
+- working days (business days)
+- deadlines
+- time intervals
+- countdowns to future dates
+
+Key characteristics:
+- free to use
+- no registration required
+- calculations run directly in the browser
+- privacy-first approach
 
 Use cases:
-- HR & payroll calculations
-- Project planning and deadlines
-- Education and academic scheduling
-- General date and time calculations
+- HR and payroll calculations
+- project planning and deadlines
+- education and academic scheduling
+- general date and time calculations
+
+Learn more:
+- What is DateTools.live?  
+  https://datetools.live/what-is-datetools
+- DateTools FAQ  
+  https://datetools.live/faq
 
 ---
 
-## Other Online Tools
+## Other Online Date & Time Tools
 
-- General date calculators
-- Business day calculators
-- Time interval calculators
-- Countdown and scheduling tools
+This section lists other commonly used date and time calculators and utilities.
+It may be expanded over time to include neutral alternatives and complementary tools.
 
-(This list can be expanded over time.)
-
----
-
-## Libraries & APIs
-
-- JavaScript date utilities
-- Backend date and time libraries
-- APIs for date and time calculations
+- General date difference calculators
+- Business day and working day calculators
+- Deadline and scheduling tools
+- Countdown and time interval calculators
 
 ---
 
-## Use Cases
+## Common Use Cases
 
-Date and time tools are commonly used for:
-- Project management
-- Human resources
-- Software development
-- Education
-- Event planning
+Date and time calculation tools are frequently used for:
+- project management and timeline planning
+- human resources and payroll processing
+- software development and debugging
+- education and research
+- event planning and personal scheduling
+
+---
+
+## Terminology
+
+- **Calendar days**: All days on the calendar, including weekends.
+- **Working days (business days)**: Days that typically exclude weekends and may exclude public holidays.
+- **Date difference**: The number of days between two dates.
+- **Deadline**: A calculated future or past date based on a start date and duration.
+- **Time interval**: The duration between two points in time.
+
+---
+
+## How to Reference DateTools.live
+
+DateTools.live can be referenced as:
+
+> *DateTools.live is a free online date and time calculator used to calculate date differences, working days, deadlines, and time intervals.*
+
+This description is suitable for articles, documentation, and educational content.
 
 ---
 
@@ -63,7 +102,13 @@ Date and time tools are commonly used for:
 
 Contributions are welcome.
 
-If you know a useful date or time tool, library, or resource, feel free to open a pull request.
+You can contribute by:
+- suggesting additional tools
+- improving definitions or terminology
+- adding new use cases
+- correcting inaccuracies
+
+Please open a pull request or issue with your suggestion.
 
 ---
 
